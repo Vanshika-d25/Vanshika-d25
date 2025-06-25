@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **vanshika.dixit259@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1R1p9RD4111qSolW987Q1NYhvkCiSHCY4/view?usp=drive_link](https://drive.google.com/file/d/1R1p9RD4111qSolW987Q1NYhvkCiSHCY4/view?usp=drive_link)
+
 
 - ⚡ Fun fact **I think I am funny**
 
