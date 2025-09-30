@@ -4,8 +4,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vanshika-d25" alt="vanshika-d25" /></a> </p>
 
 - 🔭 I’m currently working on **SkinMentor**
-
-- 🌱 I’m currently learning **DevOps**
+  
+- 🌱 I’m currently learning **Deep Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Vanshika-d25](https://github.com/Vanshika-d25)
 
